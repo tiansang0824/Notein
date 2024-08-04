@@ -11,7 +11,12 @@
 
 ## 内容导航
 
--   [收藏夹->搜索资源工具类](./favorites/resourceSearch.md)
+-   [收藏夹->搜索资源工具类](./favorites/resourceSearch/resourceSearch.md)
+-   
+
+## 电子资料
+
+-   [《动手学深度学习》]([《动手学深度学习》 — 动手学深度学习 2.0.0 documentation (d2l.ai)](https://zh-v2.d2l.ai/))：神书，主要介绍和实现了很多机器学习领域的网络模型，很有用。
 -   
 
 ## 方法记录
