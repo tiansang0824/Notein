@@ -19,8 +19,6 @@
 ## 收藏夹（favorites）
 
 -   [收藏夹->网盘搜索资源工具类](./favorites/resourceSearch/resourceSearch.md)：一个索引集合，用来链接到网盘资源搜索工具上。
--   
--   
 
 ## 电子资料（elecResources）
 
@@ -41,4 +39,3 @@
 -   [windows特殊文件夹整理](./methods/windows特殊文件夹/windows特殊文件夹.md)：比如自启动，临时缓存等，偶尔看看回忆回忆；
 -   [zerotier moon配置记录](./methods/zerotierMoon/zerotierMoon.md)：配置zerotier-moon中转服务器的记录；
 -   [科学上网](./methods/magicNetMethods/magicNetMethods.md)：简单的科学上网方法。
--   
