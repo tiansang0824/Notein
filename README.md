@@ -9,16 +9,25 @@
 
 ---
 
+## 快捷导航（如果将本仓库页面设置为浏览器首页的话，下面的东西会很有用）
+
+-   [哔哩哔哩](bilibili.com)：神。
+-   [抖音](douyin.com)：次神。
+-   [Kimi，AI助手](kimi.ai)：科研神器！
+-   [网易邮箱](https://mail.163.com/)：邮箱地址。
+
 ## 收藏夹（favorites）
 
--   [收藏夹->网盘搜索资源工具类](./favorites/resourceSearch/resourceSearch.md)
+-   [收藏夹->网盘搜索资源工具类](./favorites/resourceSearch/resourceSearch.md)：一个索引集合，用来链接到网盘资源搜索工具上。
+-   
 -   
 
 ## 电子资料（elecResources）
 
 -   [《动手学深度学习》](https://zh-v2.d2l.ai/)：神书，主要介绍和实现了很多机器学习领域的网络模型，很有用。
 
-
+-   [飞机场发布页（泡泡狗）](https://github.com/cvmaoddg/paopaodog)：一个比较好用的机场，不过上下载速度不够快，只推荐轻度使用或者作为备用机场。
+-   [LetsVPN - The VPN that Always Connects](https://47.57.143.177/)：比较好使的vpn。
 
 ## 学习笔记（notes）
 
