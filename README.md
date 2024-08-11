@@ -11,9 +11,9 @@
 
 ## 快捷导航（如果将本仓库页面设置为浏览器首页的话，下面的东西会很有用）
 
--   [哔哩哔哩](bilibili.com)：神。
--   [抖音](douyin.com)：次神。
--   [Kimi，AI助手](kimi.ai)：科研神器！
+-   [哔哩哔哩](https://www.bilibili.com/)：神。
+-   [抖音](https://www.douyin.com/)：次神。
+-   [Kimi，AI助手](https://kimi.moonshot.cn/)：科研神器！
 -   [网易邮箱](https://mail.163.com/)：邮箱地址。
 
 ## 收藏夹（favorites）
