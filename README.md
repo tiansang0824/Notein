@@ -19,6 +19,7 @@
 ## 收藏夹（favorites）
 
 -   [收藏夹->网盘搜索资源工具类](./favorites/resourceSearch/resourceSearch.md)：一个索引集合，用来链接到网盘资源搜索工具上。
+-   [第三方系统镜像下载->next-iTellYou](https://next.itellyou.cn/)：十分出名的系统镜像库。（不过个人常用的还是[官网下载](https://www.microsoft.com/zh-cn/software-download)）
 
 ## 电子资料（elecResources）
 
@@ -26,6 +27,7 @@
 
 -   [飞机场发布页（泡泡狗）](https://github.com/cvmaoddg/paopaodog)：一个比较好用的机场，不过上下载速度不够快，只推荐轻度使用或者作为备用机场。
 -   [LetsVPN - The VPN that Always Connects](https://47.57.143.177/)：比较好使的vpn。
+-   [chatTTS](https://github.com/2noise/ChatTTS)：GitHub的开源TTS模型，还有一个[打包了ui界面的chatTTS](https://github.com/jianchang512/ChatTTS-ui)可以作为参考。
 
 ## 学习笔记（notes）
 
