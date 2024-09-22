@@ -1,4 +1,7 @@
+[toc]
+
 # Notein
+
 **笔记仓库,想要试图打造成在线笔记本.**
 
 接下来我会试图让这个仓库发挥一个类似于笔记本的作用,用于记录我在实践中遇到的各种各样的问题,以及我的解决过程或者方案.对于每次的记录,我会新建一个文件夹保存到仓库中(主要是为了方便管理笔记的附件assets),然后在`Readme.md`(也就是这个文件)中,留下一个相对链接.
@@ -9,37 +12,46 @@
 
 ---
 
-## 快捷导航（如果将本仓库页面设置为浏览器首页的话，下面的东西会很有用）
+## 网盘资源搜索网站
 
--   [哔哩哔哩](https://www.bilibili.com/)：神。
--   [抖音](https://www.douyin.com/)：次神。
--   [Kimi，AI助手](https://kimi.moonshot.cn/)：科研神器！
--   [网易邮箱](https://mail.163.com/)：邮箱地址。
+这部分整理一些用于搜索网盘资源的站点，每一个都在我的某一段时期重度使用过，且基本覆盖了百度网盘和夸克网盘的内容。
 
-## 收藏夹（favorites）
+-   [夸克盘搜](https://qkpanso。com/)：这个搜索引擎用于搜索夸克网盘的资源,特别是影视资源；
+-   [趣盘搜](https://pan。funletu。com/#/)：同样是夸克网盘专属,和前面的夸克盘搜一样,十分适用于搜索影视资源；
+-   [千帆搜索-聚合网盘搜索](https://pan。qianfan。app/)：这是一个聚合式的网盘搜索工具；
+-   [up云搜](https://www.upyunso.com/)：同上，也是聚合搜索工具；
 
--   [收藏夹->网盘搜索资源工具类](./favorites/resourceSearch/resourceSearch.md)：一个索引集合，用来链接到网盘资源搜索工具上。
--   [第三方系统镜像下载->next-iTellYou](https://next.itellyou.cn/)：十分出名的系统镜像库。（不过个人常用的还是[官网下载](https://www.microsoft.com/zh-cn/software-download)）
+## 磁力资源搜索
 
-## 电子资料（elecResources）
+磁力搜索主要依靠磁力猫、磁力狗，这里是其[发布页地址](http://fb.ciligoufabuye2.xyz:1234/)，唯一一个让我没有了想要寻找替代的工具。
 
--   [《动手学深度学习》](https://zh-v2.d2l.ai/)：神书，主要介绍和实现了很多机器学习领域的网络模型，很有用。
+>   为了防止失联，复制了发布页的一个邮箱地址：
+>
+>   *发送任意邮件至 clgdzzh@gmail.com 获取最新地址*
 
--   [飞机场发布页（泡泡狗）](https://github.com/cvmaoddg/paopaodog)：一个比较好用的机场，不过上下载速度不够快，只推荐轻度使用或者作为备用机场。
--   [LetsVPN - The VPN that Always Connects](https://47.57.143.177/)：比较好使的vpn。
--   [chatTTS](https://github.com/2noise/ChatTTS)：GitHub的开源TTS模型，还有一个[打包了ui界面的chatTTS](https://github.com/jianchang512/ChatTTS-ui)可以作为参考。
+## 系统镜像和虚拟机
 
-## 学习笔记（notes）
+这一节介绍几个系统镜像地址，除了微软官网以外，这几个站点提供了比较不错的功能服务。介绍结束后会简单说明一下从官方下载vmware的方法。
 
--   [git笔记](./notes/git笔记/git笔记.md)：比较简单的记录，主要是为了方便新机安装git以后，进行基本的配置以及与github和gitee链接。
--   [Linux笔记](./notes/linux/linuxNote.md)：完善中。
+-   [MSDN-iTellYou](https://next.itellyou.cn/)：其实从我个人的角度，我不太喜欢这个网站，因为他能做的，官网都可以做到，官网做不到的，他也做不到，而且曾经在这里下载的iso似乎出过问题。
+-   [hello windows](https://hellowindows.cn/)：（在写这段内容的时候，这个网站打不开，不能确定具体原因）。之所以列在这里，是因为该网站不仅提供了windows的iso，还提供了office的安装包。
+-   [绿色系统](http://lvsexitong.com/)：这里提供的是补充了某些插件或者补丁的系统，而不是精简系统。
+-   [winOS](https://www.winos.me/)：这个网站提供的内容主要是精简iso，我感觉可以作为vmware的windows虚拟机来使用。
 
-## 方法记录（methods）
+最后简单说一下**如何从官网下载到正版的、个人使用的vmware workstation**，首先，[这是](https://blogs.vmware.com/workstation/2024/05/vmware-workstation-pro-now-available-free-for-personal-use.html)官方宣布vmware17对个人免费的通知，通过通知，可以找到vmware的[下载地址](https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware+Workstation+Pro)，下载需要同意broadcom的协议，而且需要事先注册账号，总之，登录好账号以后，到这里的下载地址，在列表上方勾选其规则，即可进行下载。
 
--   [JetBrains全家桶激活方式](./methods/JetBrainsActivation/JetBrainsActivation.md)，十分有用！（最后一次使用于2024年8月3日）
--   [vscode优化方法以及部分插件推荐](./methods/vscodeOptimization/vscode优化方法和实用插件.md)：推荐~
--   [windows特殊文件夹整理](./methods/windows特殊文件夹/windows特殊文件夹.md)：比如自启动，临时缓存等，偶尔看看回忆回忆；
--   [zerotier moon配置记录](./methods/zerotierMoon/zerotierMoon.md)：配置zerotier-moon中转服务器的记录；
--   [科学上网](./methods/magicNetMethods/magicNetMethods.md)：简单的科学上网方法。
--   [追番APP-Kazumi](./methods/追番/Kazumi.md)：主打一个好使。
--   [cs的cfg配置文件](./methods/cscfg/tiansang_cfg.cfg)：备份文件的。
+## 科学上网
+
+-   关于梯子的选择，经过多重不同梯子选择后，只留下了一个选项，一个叫做[白月光](https://www.sibker.com/)的机场，该机场流量充足，大部分时间比较稳定，适合作为主力机场，同时，为了避免该机场出问题的时候失去上网能力，建议补充一个次要的机场。
+-   关于上网工具的选择，首先，`v2Ray`雀食不太好用，而原版的clash已经暴毙，截止到`2024年9月22日`，目前在windows和安卓端使用的工具分别是`clash verge`和`clash meta`，对应的github地址分别是：[verge](https://github.com/clash-verge-rev/clash-verge-rev)和[meta](https://github.com/MetaCubeX/ClashMetaForAndroid)，这两个app作为clash的变体，完全继承了clash的功能，因此效果上不弱于clash。
+
+## 方法记录
+
+-   关于解放追番的方式（软件推荐），参考[这篇文档](./100-追番-kazumi/Kazumi.md)。
+-   关于windows中的部分特殊文件夹，参考[这篇文档](./101-win-windows特殊文件夹/windows特殊文件夹.md)。
+-   JetBrains全家桶激活方式，参考[这篇文档](./102-jetbrains-jetBrains全家桶激活方式/JetBrainsActivation.md)。
+-   关于vscode的优化方法和插件推荐，参考[这篇文档](./102-vsc-vscode优化方法和插件推荐/vscode优化方法和实用插件.md)。
+
+---
+
+<div style="text-align:center; font-weight:bold">...END...</div>
